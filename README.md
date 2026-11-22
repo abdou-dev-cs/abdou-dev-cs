@@ -72,7 +72,7 @@ Explore my repositories to discover selected projects, experiments, and ongoing 
 
 ## 📫 Connect With Me
 
-- **GitHub:** [Explore my repositories](https://github.com/)
+- **GitHub:** [Explore my repositories](https://github.com/abdou-dev-cs?tab=repositories)
 - **Email:** abderrahmane.dev.05@gmail.com
 
 ---
